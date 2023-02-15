@@ -1,12 +1,3 @@
-<div align="center">
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
-
-  <h3><b>Microverse README Template</b></h3>
-
-</div>
-
-
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
@@ -37,9 +28,7 @@ HTML | CSS
 
 ### Key Features <a name="key-features"></a>
 
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
+> A simple HTML file that says Hello Microverse
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -79,10 +68,6 @@ To run the project, open index.html with your preferred web browser or open it w
 
 👤 **Hasnat khan**
 
-- GitHub: https://github.com/hasnatali1947
-- Twitter: https://twitter.com/hasnatking1947
-- LinkedIn: https://www.linkedin.com/feed/?trk=homepage-basic_google-sign-in-submit
-
 - GitHub: [@hasnatali1947](https://github.com/hasnatali1947)
 - Twitter: [@hasnatking1947](https://twitter.com/hasnatking1947)
 - LinkedIn: [Hasnat ali](https://www.linkedin.com/feed/?trk=homepage-basic_google-sign-in-submit)
@@ -92,7 +77,6 @@ To run the project, open index.html with your preferred web browser or open it w
 Feel free to check [issues page](https://github.com/hasnatali1947/Hello-microverse/issues).
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
-
 
 Thanks Microverse, learn how to code > [Join Microverse](https://www.microverse.org/?grsf=9m3hq6)
 
